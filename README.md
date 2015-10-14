@@ -1,3 +1,4 @@
+This is student
 ## cs100 - open source software construction
 
 This is a course on [how to be a hacker](http://www.catb.org/esr/faqs/hacker-howto.html).
